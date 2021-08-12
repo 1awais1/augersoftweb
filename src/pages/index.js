@@ -31,9 +31,6 @@ const HomeOne = () => {
             */}
             <Partner />
             <OurTeamStyleOne />
-            {/* Taking this out }
-            <Pricing />
-    */}
             <StartProjectWithUs/>
             <SubscribeForm />
             <Footer />
