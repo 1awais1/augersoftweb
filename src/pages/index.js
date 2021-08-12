@@ -29,8 +29,6 @@ const HomeOne = () => {
             {/* Taking this out, we may need this in future}
             <TestimonialStyleOne />
             */}
-
-            {/* For Partner section, we need to add icons for different technologies used} */}
             <Partner />
             <OurTeamStyleOne />
             {/* Taking this out }
