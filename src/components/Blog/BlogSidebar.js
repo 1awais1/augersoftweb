@@ -14,7 +14,7 @@ import TeamImg9 from '../../assets/images/team/team-img9.jpg'
 const BlogSidebar = () => {
     return (
         <div className="widget-area">
-            <div className="widget widget_search">
+            {/* <div className="widget widget_search">
                 <h3 className="widget-title">Search</h3>
 
                 <form className="search-form">
@@ -23,9 +23,9 @@ const BlogSidebar = () => {
                     </label>
                     <button type="submit"><i className="bx bx-search-alt"></i></button>
                 </form>
-            </div>
+            </div> */}
 
-            <div className="widget widget_dibiz_posts_thumb">
+            {/* <div className="widget widget_dibiz_posts_thumb">
                 <h3 className="widget-title">Popular Posts</h3>
 
                 <div className="item">
@@ -75,8 +75,8 @@ const BlogSidebar = () => {
 
                     <div className="clear"></div>
                 </div>
-            </div>
-
+            </div> */}
+{/* 
             <div className="widget widget_categories">
                 <h3 className="widget-title">Categories</h3>
 
@@ -87,9 +87,9 @@ const BlogSidebar = () => {
                     <li><a href="#">Device <span className="post-count">(08)</span></a></li>
                     <li><a href="#">Tips <span className="post-count">(01)</span></a></li>
                 </ul>
-            </div>
+            </div> */}
 
-            <div className="widget widget_tag_cloud">
+            {/* <div className="widget widget_tag_cloud">
                 <h3 className="widget-title">Popular Tags</h3>
 
                 <div className="tagcloud">
@@ -102,9 +102,10 @@ const BlogSidebar = () => {
                     <a href="#">Marketing <span className="tag-link-count">(1)</span></a>
                     <a href="#">Tips <span className="tag-link-count">(2)</span></a>
                 </div>
-            </div>
+            </div> */}
 
             <div className="widget widget_instagram">
+            <h3 className='widget-title'> Our Interns</h3>
                 <ul>
                     <li>
                         <div className="box">

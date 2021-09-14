@@ -74,11 +74,11 @@ const Navbar = () => {
                                 <li className="nav-item">
                                         
                                         
-                                        {/*}
-                                        <Link to="/" activeClassName="active" onClick={toggleNavbar} className="nav-link">
+                                        
+                                        <Link to="/App" activeClassName="active" onClick={toggleNavbar} className="nav-link">
                                             Click Here to Login
                                         </Link>
-                                        */}
+                                        
 
                                     </li>
 
@@ -101,16 +101,16 @@ const Navbar = () => {
                                     </li>
 
                                     {/* We need to create a new section for this below and expand on team member journey*/}
-                                    <li className="nav-item">
+                                    {/* <li className="nav-item">
                                         <Link to="/contact" activeClassName="active" onClick={toggleNavbar} className="nav-link">
                                             Team Members
                                         </Link>
-                                    </li>
+                                    </li> */}
     
                                     <li className="nav-item">
                                         <Link to="/blog-1" activeClassName="active" onClick={toggleNavbar}
                                         className="nav-link">
-    									Blog
+    									Team
     								    </Link>
     							    </li>
 

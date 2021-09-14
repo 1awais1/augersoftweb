@@ -8,7 +8,7 @@ import User4 from '../../assets/images/user4.jpg'
 const BlogComments = () => {
     return (
         <div className="comments-area">
-            <h3 className="comments-title">2 Comments:</h3>
+            {/* <h3 className="comments-title">2 Comments:</h3>
 
             <ol className="comment-list">
                 <li className="comment">
@@ -146,10 +146,10 @@ const BlogComments = () => {
                         </li>
                     </ol>
                 </li>
-            </ol>
+            </ol> */}
 
             <div className="comment-respond">
-                <h3 className="comment-reply-title">Leave a Reply</h3>
+                <h3 className="comment-reply-title">Contact me</h3>
 
                 <form className="comment-form">
                     <p className="comment-notes">
@@ -166,8 +166,8 @@ const BlogComments = () => {
                         <input type="email" id="email" placeholder="Your Email*" name="email" required="required" />
                     </p>
                     <p className="comment-form-url">
-                        <label>Website</label>
-                        <input type="url" id="url" placeholder="Website" name="url" />
+                        <label>Subject</label>
+                        <input type="text" id="subject" placeholder="Subject" name="subject" />
                     </p>
                     <p className="comment-form-comment">
                         <label>Comment</label>
@@ -175,10 +175,10 @@ const BlogComments = () => {
                     </p>
                     <p className="comment-form-cookies-consent">
                         <input type="checkbox" value="yes" name="wp-comment-cookies-consent" id="wp-comment-cookies-consent" />
-                        <label htmlFor="comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label>
+                        <label htmlFor="comment-cookies-consent">Save my name, email, in this browser for the next time I comment.</label>
                     </p>
                     <p className="form-submit">
-                        <input type="submit" name="submit" id="submit" className="submit" value="Post A Comment" />
+                        <input type="submit" name="submit" id="submit" className="submit" value="Contact Team" />
                     </p>
                 </form>
             </div>

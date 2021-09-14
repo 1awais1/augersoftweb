@@ -24,13 +24,17 @@ const BlogOne = () => {
 
             <Navbar />
 
-            <MainBanner 
+            {/* <MainBanner 
                 pageTitle="Blog Grid (2 in Row)" 
-            />
+            /> */}
 
             <div className="blog-area bg-f9f9f9 ptb-100">
                 <div className="container">
                     <div className="row">
+                     {/* <h2 style ={{color='coral'}}>Team AugerSoft</h2> */}
+                     <hr/>
+                      <h2 style={{ color: 'coral' ,textAlign:'center'}} >Team AugerSoft</h2>
+                      <hr/>
                         <div className="col-lg-6 col-md-6">
                             <div className="single-blog-post">
                                 <div className="image">
@@ -40,15 +44,15 @@ const BlogOne = () => {
                                 </div>
                                 <div className="content">
                                     <h3>
-                                        <Link to="/single-blog-1">
+                                        {/* <Link to="/single-blog-1">
                                             Digital Marketing Agency Blogs You Should Read
-                                        </Link>
+                                        </Link> */}
                                     </h3>
                                     <div className="d-flex align-items-center">
                                         <img src={User1} alt="User" />
                                         <div className="info">
-                                            <h5>David Smith</h5>
-                                            <span>Jun 15, 2020</span>
+                                            <h5>Farooq</h5>
+                                             <span>CEO</span>
                                         </div>
                                     </div>
                                 </div>
@@ -64,16 +68,16 @@ const BlogOne = () => {
                                 </div>
 
                                 <div className="content">
-                                    <h3>
+                                    {/* <h3>
                                         <Link to="/single-blog-1">
                                             Digital Marketing Strategies for Lead Generation
                                         </Link>
-                                    </h3>
+                                    </h3> */}
                                     <div className="d-flex align-items-center">
                                         <img src={User2} alt="User" />
                                         <div className="info">
-                                            <h5>Sarah Taylor</h5>
-                                            <span>Jun 16, 2020</span>
+                                            <h5>Asim Javed</h5>
+                                            <span>Technology Manager</span>
                                         </div>
                                     </div>
                                 </div>
@@ -89,16 +93,16 @@ const BlogOne = () => {
                                 </div>
 
                                 <div className="content">
-                                    <h3>
+                                    {/* <h3>
                                         <Link to="/single-blog-1">
                                             Agencies Can Successfully Recover From COVID?
                                         </Link>
-                                    </h3>
+                                    </h3> */}
                                     <div className="d-flex align-items-center">
                                         <img src={User3} alt="User" />
                                         <div className="info">
-                                            <h5>Steven Gibson</h5>
-                                            <span>Jun 17, 2020</span>
+                                            <h5>Muhammad Shahryar Khan</h5>
+                                            <span>IT Project Manager</span>
                                         </div>
                                     </div>
                                 </div>
@@ -114,11 +118,11 @@ const BlogOne = () => {
                                 </div>
 
                                 <div className="content">
-                                    <h3>
+                                    {/* <h3>
                                         <Link to="/single-blog-1">
                                             Preparing E-Commerce for the Post-COVID Bounce Back
                                         </Link>
-                                    </h3>
+                                    </h3> */}
                                     <div className="d-flex align-items-center">
                                         <img src={User1} alt="User" />
                                         <div className="info">
@@ -139,11 +143,11 @@ const BlogOne = () => {
                                 </div>
 
                                 <div className="content">
-                                    <h3>
+                                    {/* <h3>
                                         <Link to="/single-blog-1">
                                             The State of Local SEO Industry Report 2020, Announced
                                         </Link>
-                                    </h3>
+                                    </h3> */}
                                     <div className="d-flex align-items-center">
                                         <img src={User2} alt="User" />
                                         <div className="info">
@@ -164,11 +168,11 @@ const BlogOne = () => {
                                 </div>
 
                                 <div className="content">
-                                    <h3>
+                                    {/* <h3>
                                         <Link to="/single-blog-1">
                                             Should You Test That? When to Engage in SEO Split Tests
                                         </Link>
-                                    </h3>
+                                    </h3> */}
                                     <div className="d-flex align-items-center">
                                         <img src={User3} alt="User" />
                                         <div className="info">

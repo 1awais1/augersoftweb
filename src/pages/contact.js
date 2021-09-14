@@ -18,7 +18,7 @@ const Contact = () => {
             />
     */}
             <div className="contact-info-area pt-100 pb-70">
-                <div className="container">
+                {/* <div className="container">
                     <div className="row">
                         <div className="col-lg-4 col-md-6">
                             <div className="contact-info-box">
@@ -63,7 +63,7 @@ const Contact = () => {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
 
             <ContactForm />
