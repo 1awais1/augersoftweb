@@ -8,8 +8,9 @@ import SEOAnalysisForm from '../components/Common/SEOAnalysisForm';
 import Pricing from '../components/Common/Pricing';
 import StartProjectWithUs from '../components/Common/StartProjectWithUs';
 
+
 import ServicesImg1 from '../assets/images/services/services-img1.png'
-import ServicesImg2 from '../assets/images/services/services-img2.png'
+import ServicesImg2 from '../assets/images/services/s15-removebg.jpg'
 
 const SingleServices = () => {
     return (
@@ -28,23 +29,23 @@ const SingleServices = () => {
                     <div className="overview-box">
                         <div className="overview-content">
                             <div className="content">
-                                <span className="sub-title">Digital Marketing</span>
-                                <h2>Creative Solutions, Creative Results</h2>
-                                <p>We believe brand interaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication.</p>
+                                <span className="sub-title">Augersoft Development</span>
+                                <h2>Creative Solutions, Exponential Results</h2>
+                                <p>We believe in catering our services to the best of client needs which our centred towards perfection. Innovations that are tagged with the best development platfroms to generate productive outcomes.</p>
                                 <div className="features-text">
-                                    <h4>Core Development</h4>
-                                    <p>No fake products and services. The customer is king, their lives and needs are the inspiration.</p>
+                                    <h4>Competent and Compliant</h4>
+                                    <p>The right blend of Developers and Engineers that develop nothing less then the best. Augersoft picks up highly competent and skilled professionals according to your projects and deploys them to your service.</p>
                                 </div>
                                 <div className="features-text">
                                     <h4>Define Your Choices</h4>
-                                    <p>No fake products and services. The customer is king, their lives and needs are the inspiration.</p>
+                                    <p>The customer is king, their lives and needs are the inspiration. Have 24/7 assistance from our staff and have us build your product how you want it to be !</p>
                                 </div>
                             </div>
                         </div>
 
                         <div className="overview-image">
                             <div className="image">
-                                <img src={ServicesImg1} alt="image" />
+                                <img src={ServicesImg1} alt="image"  height="750" width="890" color="white"/>
                             </div>
                         </div>
                     </div>
@@ -58,14 +59,14 @@ const SingleServices = () => {
                         
                         <div className="overview-content">
                             <div className="content right-content">
-                                <span className="sub-title">Social Media Marketing</span>
-                                <h2>Solving Problems, Building Brands</h2>
-                                <p>We believe brand interaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication.</p>
+                               
+                                <h2>Hire Best, Get served Best</h2>
+                                <p>We believe client satisfaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication.</p>
                                 <ul className="features-list">
-                                    <li><span><i className='bx bx-check'></i> Recommender Systems</span></li>
-                                    <li><span><i className='bx bx-check'></i> Demand Prediction</span></li>
-                                    <li><span><i className='bx bx-check'></i> Omnichannel Analytics</span></li>
-                                    <li><span><i className='bx bx-check'></i> Lead Generation</span></li>
+                                    <li><span><i className='bx bx-check'></i> Agile Work-flow </span></li>
+                                    <li><span><i className='bx bx-check'></i> Multiple Platforms</span></li>
+                                    <li><span><i className='bx bx-check'></i> SEO Analytics</span></li>
+                                    <li><span><i className='bx bx-check'></i> Documented Projects</span></li>
                                     <li><span><i className='bx bx-check'></i> Dedicated Developers</span></li>
                                     <li><span><i className='bx bx-check'></i> 24/7 Support</span></li>
                                 </ul>
@@ -78,9 +79,8 @@ const SingleServices = () => {
             <div className="services-area bg-f9f9f9 pt-100 pb-70">
                 <div className="container">
                     <div className="section-title">
-                        <span className="sub-title">Digital Marketing</span>
-                        <h2>Core Business Areas</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                        <span className="sub-title">Augersoft Development</span>
+                        <h2>Core Development Areas</h2>
                     </div>
 
                     <div className="row">
@@ -93,8 +93,8 @@ const SingleServices = () => {
                                         <div className="circle-two"></div>
                                     </div>
                                 </div>
-                                <h3>Informative Content</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                                <h3>Mobile Application/BlockChain Development</h3>
+                                <p>Our primary focus is Mobile Application development. We build global mobile applications on Flutter, Android and Ios.We have you covered from design to development, from testing to deployment mobile apps. Our experts supplement the customer's thought-process along with their schemes guaranteeing successful project </p>
                             </div>
                         </div>
 
@@ -107,12 +107,13 @@ const SingleServices = () => {
                                         <div className="circle-two"></div>
                                     </div>
                                 </div>
-                                <h3>Visitor Growth</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                                <h3>Web Development</h3>
+                                <p>We provide high-end web solutions to help to execute your business operations smooth, fast and efficiently, we also focus on providing long term maintanance for our business partners and clients. A big chunk of our daily routine is spent designing and developing custom online business systems, devloping remote business be it for blue-chip corporate clients, fresh-faced start-ups or local SMEs. </p>
+                                
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-6 col-sm-6">
+                        {/* <div className="col-lg-4 col-md-6 col-sm-6">
                             <div className="single-services-box">
                                 <div className="icon">
                                     <i className="flaticon-bar-chart"></i>
@@ -121,12 +122,12 @@ const SingleServices = () => {
                                         <div className="circle-two"></div>
                                     </div>
                                 </div>
-                                <h3>Google Analytics</h3>
+                                <h3>BlockChain based Development</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                             </div>
-                        </div>
+                        </div> */}
 
-                        <div className="col-lg-4 col-md-6 col-sm-6">
+                        {/* <div className="col-lg-4 col-md-6 col-sm-6">
                             <div className="single-services-box">
                                 <div className="icon">
                                     <i className="flaticon-megaphone"></i>
@@ -138,7 +139,7 @@ const SingleServices = () => {
                                 <h3>Innovative Strategies</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                             </div>
-                        </div>
+                        </div> */}
 
                         <div className="col-lg-4 col-md-6 col-sm-6">
                             <div className="single-services-box">
@@ -149,12 +150,12 @@ const SingleServices = () => {
                                         <div className="circle-two"></div>
                                     </div>
                                 </div>
-                                <h3>Link Building</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                                <h3>Desktop App Development</h3>
+                                <p>We sustain best practices and market trends to deliver well-rounded desktop software development services. Have you desktop application built efficiently that provides ease to your business.Our competent designers and programmers never hesitate to go extra miles while transforming an exciting desktop application concept into an industry sensation..</p>
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-6 col-sm-6">
+                        {/* <div className="col-lg-4 col-md-6 col-sm-6">
                             <div className="single-services-box">
                                 <div className="icon">
                                     <i className="flaticon-reputation"></i>
@@ -166,7 +167,7 @@ const SingleServices = () => {
                                 <h3>Reputation Management</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>

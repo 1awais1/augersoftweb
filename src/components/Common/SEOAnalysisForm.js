@@ -16,8 +16,8 @@ const SEOAnalysisForm = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="analysis-form">
                             <span className="sub-title">Analysis</span>
-                            <h2>Get Free SEO Analysis</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <h2>Get Free Project Analysis</h2>
+                            <p>Augersoft provides our valuable clients with free project estimation and analysis.Sit down with our team of experts, lay down a plan and we would be obliged to work with you. </p>
                             
                             <form>
                                 <div className="row">
@@ -41,11 +41,11 @@ const SEOAnalysisForm = () => {
 
                                     <div className="col-lg-6 col-md-6">
                                         <div className="form-group">
-                                            <input type="text" className="form-control" id="website" placeholder="Website" />
+                                            <input type="text" className="form-control" id="website" placeholder="Project ?" />
                                         </div>
                                     </div>
                                 </div>
-                                <button type="submit" className="default-btn">Check Now</button>
+                                <button type="submit" className="default-btn">Go!</button>
                             </form>
                         </div>
                     </div>

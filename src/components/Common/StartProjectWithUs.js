@@ -25,7 +25,7 @@ const StartProjectWithUs = () => {
                         <div className="project-start-content">
                             <span className="sub-title">Get Started</span>
                             <h2>We Like to Start Your Project With Us</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                            <p>Professional expertise and rapid development just a click away. Let's get started !.</p>
                             
                             <Link to="/contact" className="default-btn">
                                 Get Started

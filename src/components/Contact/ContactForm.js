@@ -4,12 +4,17 @@ import ContactImg from '../../assets/images/contact.png'
 
 const ContactForm = () => {
     return (
+
+        
         <div className="contact-area pb-100">
             <div className="container">
+           
                 <div className="section-title">
                     <span className="sub-title">Get in Touch</span>
+                   
                     <h2>Ready to Get Started? <span className="overlay"></span></h2>
-                    <p>Your email address will not be published. Required fields are marked *</p>
+                    <p>Get in touch with our team of professinals</p>
+                    
                 </div>
 
                 <div className="row">
@@ -65,5 +70,6 @@ const ContactForm = () => {
         </div>
     )
 }
+
 
 export default ContactForm;
