@@ -18,7 +18,7 @@ const OurTeamStyleOne = () => {
                             <img src={TeamImg1} alt="team-image" />
 
                             <div className="content">
-                                <h3>James Anderson</h3>
+                                <h3>Farooq Muhammad </h3>
                                 <span>CEO</span>
                             </div>
 
@@ -36,8 +36,8 @@ const OurTeamStyleOne = () => {
                             <img src={TeamImg2} alt="team-image" />
 
                             <div className="content">
-                                <h3>Sarah Taylor</h3>
-                                <span>Marketing Lead</span>
+                                <h3>Asim</h3>
+                                <span>Mobile Developer</span>
                             </div>
 
                             <ul className="social-link">
@@ -52,7 +52,7 @@ const OurTeamStyleOne = () => {
                     <div className="col-lg-6 col-md-12 col-sm-12">
                         <div className="section-title">
                             <span className="sub-title">Our Team</span>
-                            <h2>We Help to Acheive Your Business Goal</h2>
+                            <h2>We Help to Acheive Your Digital Goals</h2>
 
                             <Link to="/team-1" className="learn-more-btn">
                                 <i className="left-icon flaticon-next-button"></i> 
@@ -66,8 +66,8 @@ const OurTeamStyleOne = () => {
                             <img src={TeamImg3} alt="team-image" />
 
                             <div className="content">
-                                <h3>Taylor Sopia</h3>
-                                <span>Web Designer</span>
+                                <h3>Awais</h3>
+                                <span>Web Desveloper</span>
                             </div>
 
                             <ul className="social-link">
@@ -84,8 +84,8 @@ const OurTeamStyleOne = () => {
                             <img src={TeamImg4} alt="team-image" />
 
                             <div className="content">
-                                <h3>Harry Steve</h3>
-                                <span>Web Developer</span>
+                                <h3>Danish Ghani</h3>
+                                <span>Web/ATC Developer</span>
                             </div>
 
                             <ul className="social-link">
@@ -95,6 +95,7 @@ const OurTeamStyleOne = () => {
                                 <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
                             </ul>
                         </div>
+                        
                     </div>
 
                     <div className="col-lg-3 col-md-6 col-sm-6">
@@ -102,8 +103,8 @@ const OurTeamStyleOne = () => {
                             <img src={TeamImg5} alt="team-image" />
 
                             <div className="content">
-                                <h3>Alina Smith</h3>
-                                <span>Advisor</span>
+                                <h3>Shahryar Khan</h3>
+                                <span>Program Manager</span>
                             </div>
 
                             <ul className="social-link">
@@ -120,8 +121,8 @@ const OurTeamStyleOne = () => {
                             <img src={TeamImg6} alt="team-image" />
 
                             <div className="content">
-                                <h3>David Warner</h3>
-                                <span>Support</span>
+                                <h3>Bakhat</h3>
+                                <span>Flutter Trainer</span>
                             </div>
 
                             <ul className="social-link">

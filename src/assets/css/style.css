@@ -429,6 +429,8 @@ Navbar Area CSS
 
 .main-nav .navbar .navbar-brand {
   font-size: inherit;
+  height: 50px;
+  width: 200px;
   line-height: 1;
   padding-top: 0;
   padding-bottom: 0;
@@ -1528,8 +1530,7 @@ Main Banner Area CSS
 
 .main-banner-image {
   height: 100%;
-  background-position: center center;
-  background-size: cover;
+
   background-repeat: no-repeat;
   background-image: url(../../assets/images/banner-img1.jpg);
 }
@@ -2726,9 +2727,8 @@ Featured Services Area CSS
 =================================================*/
 .single-featured-services-box {
   margin-bottom: 30px;
-  text-align: center;
-  background-color: #f9f9f9;
-  padding: 50px 25px;
+  background-color: papayawhip;
+  padding: 50px 35px;
   border-radius: 5px;
   -webkit-transition: var(--transition);
   transition: var(--transition);
@@ -3051,7 +3051,7 @@ About Area CSS
 
 .about-image {
   height: 100%;
-  margin-right: 20px;
+  margin-left: 20px;
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3432,7 +3432,7 @@ Services Area CSS
 =================================================*/
 .single-services-box {
   margin-bottom: 30px;
-  background-color: var(--whiteColor);
+  background-color: papayawhip;
   padding: 50px 35px;
   border-radius: 5px;
   -webkit-transition: var(--transition);

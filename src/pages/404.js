@@ -4,9 +4,8 @@ import Layout from "../components/App/Layout"
 import SEO from "../components/App/SEO"
 import Navbar from "../components/App/Navbar"
 import PageBanner from '../components/Common/PageBanner';
-import Footer from "../components/App/Footer"
-
-import ErrorImg from '../assets/images/error.png'
+import Footer from "../components/App/Footer";
+import ErrorImg from '../assets/images/error.png';
 
 const NotFoundPage = () => (
     <Layout>

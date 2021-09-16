@@ -15,18 +15,29 @@ const WhatWeDo = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="what-we-do-content">
                             <span className="sub-title">What We Do</span>
-                            <h2>We Help to Website Growth With Next Level Visitor</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                            <h2>Our Services Are Defined By Quality And Commitment.</h2>
+                            <p>Augersoft is an essential feature of digital information technology.</p>
                             
                             <div className="skills-item">
                                 <div className="skills-header">
-                                    <h4 className="skills-title">Digital Marketing & SEO</h4>
+                                    <h4 className="skills-title">Web & Mobile Development</h4>
                                     <div className="skills-percentage">
                                         <div className="count-box">95%</div>
                                     </div>
                                 </div>
                                 <div className="skills-bar">
                                     <div className="bar-inner"><div className="bar progress-line" data-width="95"></div></div>
+                                </div>
+                            </div>
+                            <div className="skills-item">
+                                <div className="skills-header">
+                                    <h4 className="skills-title">BlockChain Services</h4>
+                                    <div className="skills-percentage">
+                                        <div className="count-box">85%</div>
+                                    </div>
+                                </div>
+                                <div className="skills-bar">
+                                    <div className="bar-inner"><div className="bar progress-line" data-width="85"></div></div>
                                 </div>
                             </div>
                         </div>
@@ -39,12 +50,12 @@ const WhatWeDo = () => {
                                     <AccordionItemHeading>
                                         <AccordionItemButton>
                                             <span>
-                                                Social Media Optimization
+                                            Consulting
                                             </span>
                                         </AccordionItemButton>
                                     </AccordionItemHeading>
                                     <AccordionItemPanel>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                                        <p>We help you create a clear digital strategy that optimizes your path to comprehensive, technology-led business success.</p>
                                     </AccordionItemPanel>
                                 </AccordionItem>
 
@@ -52,12 +63,12 @@ const WhatWeDo = () => {
                                     <AccordionItemHeading>
                                         <AccordionItemButton>
                                             <span>
-                                                Content Generation
+                                            Implementation
                                             </span>
                                         </AccordionItemButton>
                                     </AccordionItemHeading>
                                     <AccordionItemPanel>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                                        <p>Our expertise spans all major technologies and business functions, empowering us to deliver comprehensive business solutions.</p>
                                     </AccordionItemPanel>
                                 </AccordionItem>
 
@@ -65,12 +76,12 @@ const WhatWeDo = () => {
                                     <AccordionItemHeading>
                                         <AccordionItemButton>
                                             <span>
-                                                Pay Per Click Services
+                                            Managed Services
                                             </span>
                                         </AccordionItemButton>
                                     </AccordionItemHeading>
                                     <AccordionItemPanel>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                                        <p>Our global Managed Services teams secure your digital investment with 24x7 monitoring, maintenance, and end-to-end support.</p>
                                     </AccordionItemPanel>
                                 </AccordionItem>
                             </Accordion>

@@ -71,10 +71,10 @@ const ServicesCard = () => {
                             </div>
                             <h3>
                                 <Link to="/single-services">
-                                    Blockchain Development
+                                    Block-chain Development
                                 </Link>
                             </h3>
-                            <p>-----Need to fill information in here--------</p>
+                            <p>We Specialize in Blockchain Development</p>
                             
                             <Link to="/single-services" className="learn-more-btn">
                                 <i className="left-icon flaticon-next-button"></i> 
@@ -98,7 +98,7 @@ const ServicesCard = () => {
                                     Flutter Bootcamp
                                 </Link>
                             </h3>
-                            <p>-----Need to include some information here------</p>
+                            <p>We provide 2 week training to our interns with our Flutter developer expert. </p>
                             
                             <Link to="/single-services" className="learn-more-btn">
                                 <i className="left-icon flaticon-next-button"></i> 
@@ -122,7 +122,7 @@ const ServicesCard = () => {
                                     Augersoft Technology College
                                 </Link>
                             </h3>
-                            <p>-----Need to fill informaiton here-------</p>
+                            <p>We are offering Plularsight courses at low cost.</p>
                             
                             <Link to="/single-services" className="learn-more-btn">
                                 <i className="left-icon flaticon-next-button"></i> 
@@ -143,10 +143,10 @@ const ServicesCard = () => {
                             </div>
                             <h3>
                                 <Link to="/single-services">
-                                    Skyrocketing Growth
+                                    Back-End Bootcamp 
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                            <p>We provide 2 weeks training to our interns with our backend developer expert.</p>
                             
                             <Link to="/single-services" className="learn-more-btn">
                                 <i className="left-icon flaticon-next-button"></i> 

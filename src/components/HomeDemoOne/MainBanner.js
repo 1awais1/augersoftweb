@@ -24,9 +24,9 @@ const MainBanner = () => {
             <div className="main-banner-area">
                 <div className="container-fluid">
                     <div className="row">
-                        <div className="col-lg-6 col-md-12">
+                        <div className="col-lg-5 col-md-12">
                             <div className="main-banner-content">
-                                <span className="sub-title">Blockchain & Moobile Application Solutions</span>
+                                <span className="sub-title">Blockchain & Mobile Application Solutions</span>
                                 <h1>Building Digital Solutions for the Future</h1>
                                 <p>Specialized in Mobile/Web and Blockchain Applications. We also provide IT training/certification using a proprietary curriculum devloped by a one of the top 3 banks in US </p>
                                
@@ -49,15 +49,13 @@ const MainBanner = () => {
                             </div>
                         </div>
 
-                        <div className="col-lg-6 col-md-12">
+                        <div className="col-lg-7 col-md-12">
                             <div className="main-banner-image">
                                 <img src={BannerImg} alt="Shape" />
                             </div>
                         </div>
                     </div>
                 </div>
-
-                <div className="shape1"><img src={Shape1} alt="Shape" /></div>
                 <div className="shape2"><img src={Shape2} alt="Shape" /></div>
                 <div className="shape3"><img src={Shape3} alt="Shape" /></div>
                 <div className="shape4"><img src={Shape4} alt="Shape" /></div>

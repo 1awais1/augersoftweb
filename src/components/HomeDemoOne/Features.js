@@ -8,7 +8,7 @@ const Features = () => {
                 <div className="section-title">
                     <span className="sub-title">Features</span>
                     <h2>Let’s Check Our Featured Services</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                    <p>Create your Success Stories with our Quality IT Services. See our key expertise below.</p>
                 </div>
 
                 <div className="row">
@@ -23,10 +23,11 @@ const Features = () => {
                             </div>
 
                             <h3>
-                                <Link to="/single-services">Marketing Analysis</Link>
+                                <Link to="/single-services">Web Development</Link>
                             </h3>
                             
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                            <p>We acquire our thrills from creating web solutions to help to execute your business operations smooth, fast and efficiently. A big chunk of our daily routine is spent designing and developing custom online business systems,
+                            Our experts supplement the customer's thought-process along with their schemes guaranteeing successful project delivery.</p>
 
                             <Link to="/single-services" className="learn-more-btn">
                                 <i className="left-icon flaticon-next-button"></i> 
@@ -46,10 +47,10 @@ const Features = () => {
                             </div>
 
                             <h3>
-                                <Link to="/single-services">Website Optimization</Link>
+                                <Link to="/single-services">Mobile App Development</Link>
                             </h3>
  
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                            <p>We reinforce your business strength through adaptable Flutter apps development. We have you covered from design to development, launch, and marketing of simple to intricate mobile apps . Our experts supplement the customer's thought-process along with their schemes guaranteeing successful project delivery.</p>
                             
                             <Link to="/single-services" className="learn-more-btn">
                                 <i className="left-icon flaticon-next-button"></i> 
@@ -69,10 +70,10 @@ const Features = () => {
                             </div>
 
                             <h3>
-                                <Link to="/single-services">Email Marketing</Link>
+                                <Link to="/single-services">Desktop App Development</Link>
                             </h3>
                              
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                            <p>We sustain best practices and market trends to deliver well-rounded desktop software development services and execute operations smooth, fast and efficiently. Our competent designers and programmers never hesitate to go extra miles while transforming an exciting desktop application concept into an industry sensation.</p>
                             
                             <Link to="/single-services" className="learn-more-btn">
                                 <i className="left-icon flaticon-next-button"></i> 

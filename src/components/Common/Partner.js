@@ -11,42 +11,40 @@ const Partner = () => {
     return (
         <div className="partner-area bg-f9f9f9 ptb-70">
             <div className="container">
+                <div className="container sub-title row align-items-center justify-content-md-center" >
+                <h1 clas>Currently We Are Working In These Technology</h1>
+                </div>
+                <br></br>
+
                 <div className="row align-items-center justify-content-md-center">
-                    <div className="col-lg-2 col-6 col-sm-4 col-md-4">
+                    <div className="col-lg-3 col-6 col-sm-4 col-md-4">
                         <div className="single-partner-item">
-                            <img src={PartnerImg6} alt="Partner" />
+                            {/* <img src={PartnerImg6} alt="Partner" /> */}
+                            <h3>Flutter</h3>
                         </div>
                     </div>
 
-                    <div className="col-lg-2 col-6 col-sm-4 col-md-4">
+                    <div className="col-lg-3 col-6 col-sm-4 col-md-4">
                         <div className="single-partner-item">
-                            <img src={PartnerImg2} alt="Partner" />
+                            {/* <img src={PartnerImg2} alt="Partner" /> */}
+                            <h3>Augersoft Technology College</h3>
                         </div>
                     </div>
 
-                    <div className="col-lg-2 col-6 col-sm-4 col-md-4">
+                    <div className="col-lg-3 col-6 col-sm-4 col-md-4">
                         <div className="single-partner-item">
-                            <img src={PartnerImg3} alt="Partner" />
+                            {/* <img src={PartnerImg3} alt="Partner" /> */}
+                            <h3>Node Js</h3>
                         </div>
                     </div>
 
-                    <div className="col-lg-2 col-6 col-sm-4 col-md-4">
+                    <div className="col-lg-3 col-6 col-sm-4 col-md-4">
                         <div className="single-partner-item">
-                            <img src={PartnerImg4} alt="Partner" />
+                            {/* <img src={PartnerImg4} alt="Partner" /> */}
+                            <h3>Amazon Web Services</h3>
                         </div>
                     </div>
 
-                    <div className="col-lg-2 col-6 col-sm-4 col-md-4">
-                        <div className="single-partner-item">
-                            <img src={PartnerImg1} alt="Partner" />
-                        </div>
-                    </div>
-
-                    <div className="col-lg-2 col-6 col-sm-4 col-md-4">
-                        <div className="single-partner-item">
-                            <img src={PartnerImg5} alt="Partner" />
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
