@@ -13,6 +13,15 @@ import BlogImg4 from '../assets/images/blog/blog-img4.jpg'
 import BlogImg5 from '../assets/images/blog/blog-img5.jpg'
 import BlogImg6 from '../assets/images/blog/blog-img6.jpg'
 
+
+import FarooqImg from '../assets/images/teams/farooq.jpg'
+import AsimImg from '../assets/images/teams/asim.jpg'
+import sherryImg from '../assets/images/teams/sherry.jpg'
+import bakhtmg from '../assets/images/teams/bakht.jpg'
+import dawoodImg from '../assets/images/teams/dawood.jpg'
+import danishImg from '../assets/images/teams/danish.jpg'
+import AwaisImg from '../assets/images/teams/awais.jpg'
+
 import User1 from '../assets/images/user1.jpg'
 import User2 from '../assets/images/user2.jpg'
 import User3 from '../assets/images/user3.jpg'
@@ -39,7 +48,7 @@ const BlogOne = () => {
                             <div className="single-blog-post">
                                 <div className="image">
                                     <Link to="/single-blog-1" className="d-block">
-                                        <img src={BlogImg1} alt="Blog" />
+                                        <img src={FarooqImg} width='790' height='650' alt="Blog" />
                                     </Link>
                                 </div>
                                 <div className="content">
@@ -63,7 +72,7 @@ const BlogOne = () => {
                             <div className="single-blog-post">
                                 <div className="image">
                                     <Link to="/single-blog-1" className="d-block">
-                                        <img src={BlogImg2} alt="Blog" />
+                                        <img src={AsimImg} alt="Blog" />
                                     </Link>
                                 </div>
 
@@ -88,7 +97,7 @@ const BlogOne = () => {
                             <div className="single-blog-post">
                                 <div className="image">
                                     <Link to="/single-blog-1" className="d-block">
-                                        <img src={BlogImg3} alt="Blog" />
+                                        <img src={sherryImg}  alt="Blog" />
                                     </Link>
                                 </div>
 
@@ -113,7 +122,7 @@ const BlogOne = () => {
                             <div className="single-blog-post">
                                 <div className="image">
                                     <Link to="/single-blog-1" className="d-block">
-                                        <img src={BlogImg4} alt="Blog" />
+                                        <img src={AwaisImg} alt="Blog" />
                                     </Link>
                                 </div>
 
@@ -126,8 +135,8 @@ const BlogOne = () => {
                                     <div className="d-flex align-items-center">
                                         <img src={User1} alt="User" />
                                         <div className="info">
-                                            <h5>David Smith</h5>
-                                            <span>Jun 18, 2020</span>
+                                            <h5>Awais Asad</h5>
+                                            <span>Web Developer</span>
                                         </div>
                                     </div>
                                 </div>
@@ -138,7 +147,7 @@ const BlogOne = () => {
                             <div className="single-blog-post">
                                 <div className="image">
                                     <Link to="/single-blog-1" className="d-block">
-                                        <img src={BlogImg5} alt="Blog" />
+                                        <img src={bakhtmg} alt="Blog" />
                                     </Link>
                                 </div>
 
@@ -151,8 +160,8 @@ const BlogOne = () => {
                                     <div className="d-flex align-items-center">
                                         <img src={User2} alt="User" />
                                         <div className="info">
-                                            <h5>Sarah Taylor</h5>
-                                            <span>Jun 19, 2020</span>
+                                            <h5>Bakht</h5>
+                                            <span>Flutter Developer/Trainer</span>
                                         </div>
                                     </div>
                                 </div>
@@ -163,7 +172,7 @@ const BlogOne = () => {
                             <div className="single-blog-post">
                                 <div className="image">
                                     <Link to="/single-blog-1" className="d-block">
-                                        <img src={BlogImg6} alt="Blog" />
+                                        <img src={dawoodImg} alt="Blog" />
                                     </Link>
                                 </div>
 
@@ -176,8 +185,32 @@ const BlogOne = () => {
                                     <div className="d-flex align-items-center">
                                         <img src={User3} alt="User" />
                                         <div className="info">
-                                            <h5>Sarah Taylor</h5>
-                                            <span>Jun 20, 2020</span>
+                                            <h5>Dawood</h5>
+                                            <span>Backend Developer/Trainer</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-6 col-md-6">
+                            <div className="single-blog-post">
+                                <div className="image">
+                                    <Link to="/single-blog-1" className="d-block">
+                                        <img src={danishImg} alt="Blog" />
+                                    </Link>
+                                </div>
+
+                                <div className="content">
+                                    {/* <h3>
+                                        <Link to="/single-blog-1">
+                                            Preparing E-Commerce for the Post-COVID Bounce Back
+                                        </Link>
+                                    </h3> */}
+                                    <div className="d-flex align-items-center">
+                                        <img src={User1} alt="User" />
+                                        <div className="info">
+                                            <h5>Danish</h5>
+                                            <span>ATC/Web Developer</span>
                                         </div>
                                     </div>
                                 </div>
