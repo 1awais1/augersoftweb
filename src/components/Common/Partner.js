@@ -10,38 +10,38 @@ import PartnerImg6 from "../../assets/images/partner/partner-img6.png"
 const Partner = () => {
     return (
         <div className="partner-area bg-f9f9f9 ptb-70">
-            <div className="container">
-                <div className="container sub-title row align-items-center justify-content-md-center" >
-                <h1 clas>Currently We Are Working In These Technology</h1>
-                </div>
+            <div className="about-content">
+                <div className="content">
+
+                <h2 className="sub-title-2 ">Currently Working In </h2>
+               </div>
+                
                 <br></br>
 
                 <div className="row align-items-center justify-content-md-center">
                     <div className="col-lg-3 col-6 col-sm-4 col-md-4">
                         <div className="single-partner-item">
-                            {/* <img src={PartnerImg6} alt="Partner" /> */}
-                            <h3>Flutter</h3>
+                            <img src={PartnerImg1} alt="Partner" />
                         </div>
                     </div>
 
                     <div className="col-lg-3 col-6 col-sm-4 col-md-4">
                         <div className="single-partner-item">
-                            {/* <img src={PartnerImg2} alt="Partner" /> */}
-                            <h3>Augersoft Technology College</h3>
+                            { <img src={PartnerImg2} alt="Partner" /> }
                         </div>
                     </div>
 
                     <div className="col-lg-3 col-6 col-sm-4 col-md-4">
                         <div className="single-partner-item">
-                            {/* <img src={PartnerImg3} alt="Partner" /> */}
-                            <h3>Node Js</h3>
+                            <img src={PartnerImg3} alt="Partner" />
+                       
                         </div>
                     </div>
 
                     <div className="col-lg-3 col-6 col-sm-4 col-md-4">
                         <div className="single-partner-item">
-                            {/* <img src={PartnerImg4} alt="Partner" /> */}
-                            <h3>Amazon Web Services</h3>
+                            <img src={PartnerImg4} alt="Partner" />
+                      
                         </div>
                     </div>
 

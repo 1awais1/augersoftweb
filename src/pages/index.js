@@ -30,7 +30,7 @@ const HomeOne = () => {
             <TestimonialStyleOne />
             */}
             <Partner />
-            <OurTeamStyleOne />
+            {/* <OurTeamStyleOne /> */}
             <StartProjectWithUs/>
             <SubscribeForm />
             <Footer />

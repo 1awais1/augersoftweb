@@ -200,6 +200,9 @@ p:last-child {
 .section-title .learn-more-btn {
   margin-top: 20px;
 }
+.sub-title-2{
+  color: orangered;
+}
 
 /*default-btn*/
 .default-btn {
@@ -4146,6 +4149,7 @@ Partner Area CSS
 
 .single-partner-item {
   text-align: center;
+  padding-left: 100px;
   margin-bottom: 30px;
 }
 
