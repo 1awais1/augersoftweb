@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from "gatsby"
 
-import WhiteLogo from "../../assets/images/white-logo.png"
+import WhiteLogo from "../../assets/images/white-logo1.png"
 import Shape16 from "../../assets/images/shape/shape16.png"
 
 const Footer = () => {
