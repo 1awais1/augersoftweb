@@ -31,7 +31,7 @@ const SingleServices = () => {
                             <div className="content">
                                 <span className="sub-title">Augersoft Development</span>
                                 <h2>Creative Solutions, Exponential Results</h2>
-                                <p>We believe in catering our services to the best of client needs which our centred towards perfection. Innovations that are tagged with the best development platfroms to generate productive outcomes.</p>
+                                <p>We believe in catering our services to the best of client needs that are centred towards perfection. Innovations that are tagged with the best development platfroms to generate productive outcomes.</p>
                                 <div className="features-text">
                                     <h4>Competent and Compliant</h4>
                                     <p>The right blend of Developers and Engineers that develop nothing less then the best. Augersoft picks up highly competent and skilled professionals according to your projects and deploys them to your service.</p>

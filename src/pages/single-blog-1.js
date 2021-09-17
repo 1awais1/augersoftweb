@@ -8,6 +8,7 @@ import BlogSidebar from '../components/Blog/BlogSidebar';
 import BlogComments from '../components/Blog/BlogComments';
 
 import BlogDetailsImg from '../assets/images/blog/blog-img1.jpg'
+import FarooqImg from '../assets/images/teams/farooq.jpg'
 import BlogImg1 from '../assets/images/platforms/android.jpg'
 import BlogImg2 from '../assets/images/platforms/flutter1.png'
 import BlogImg3 from '../assets/images/platforms/node.png'
@@ -31,7 +32,7 @@ const BlogDetails = () => {
                         <div className="col-lg-8 col-md-12">
                             <div className="blog-details-desc">
                                 <div className="article-image">
-                                    <img src={BlogDetailsImg} alt="Blog" />
+                                    <img src={FarooqImg} alt="Blog" />
                                 </div>
 
                                 <div className="article-content">
