@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-        title: `Mibix - Gatsby.js Digital Marketing Company Template`,
+        title: `AugerSoft- Blockchain-Mobile-Web`,
         description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
         author: `@envy_theme`,
     },

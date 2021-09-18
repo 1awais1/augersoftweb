@@ -71,7 +71,7 @@ const BlogOne = () => {
                         <div className="col-lg-6 col-md-6">
                             <div className="single-blog-post">
                                 <div className="image">
-                                    <Link to="/single-blog-1" className="d-block">
+                                    <Link to="/single-blog-asim" className="d-block">
                                         <img src={AsimImg} alt="Blog" />
                                     </Link>
                                 </div>
@@ -96,7 +96,7 @@ const BlogOne = () => {
                         <div className="col-lg-6 col-md-6">
                             <div className="single-blog-post">
                                 <div className="image">
-                                    <Link to="/single-blog-1" className="d-block">
+                                    <Link to="/single-blog-sherry" className="d-block">
                                         <img src={sherryImg}  alt="Blog" />
                                     </Link>
                                 </div>
@@ -121,7 +121,7 @@ const BlogOne = () => {
                         <div className="col-lg-6 col-md-6">
                             <div className="single-blog-post">
                                 <div className="image">
-                                    <Link to="/single-blog-1" className="d-block">
+                                    <Link to="/single-blog-awais" className="d-block">
                                         <img src={AwaisImg} alt="Blog" />
                                     </Link>
                                 </div>
@@ -146,7 +146,7 @@ const BlogOne = () => {
                         <div className="col-lg-6 col-md-6">
                             <div className="single-blog-post">
                                 <div className="image">
-                                    <Link to="/single-blog-1" className="d-block">
+                                    <Link to="/single-blog-bakht" className="d-block">
                                         <img src={bakhtmg} alt="Blog" />
                                     </Link>
                                 </div>
@@ -171,7 +171,7 @@ const BlogOne = () => {
                         <div className="col-lg-6 col-md-6">
                             <div className="single-blog-post">
                                 <div className="image">
-                                    <Link to="/single-blog-1" className="d-block">
+                                    <Link to="/single-blog-dawood" className="d-block">
                                         <img src={dawoodImg} alt="Blog" />
                                     </Link>
                                 </div>
@@ -195,7 +195,7 @@ const BlogOne = () => {
                         <div className="col-lg-6 col-md-6">
                             <div className="single-blog-post">
                                 <div className="image">
-                                    <Link to="/single-blog-1" className="d-block">
+                                    <Link to="/single-blog-danish" className="d-block">
                                         <img src={danishImg} alt="Blog" />
                                     </Link>
                                 </div>

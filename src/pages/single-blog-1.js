@@ -9,9 +9,9 @@ import BlogComments from '../components/Blog/BlogComments';
 
 import BlogDetailsImg from '../assets/images/blog/blog-img1.jpg'
 import FarooqImg from '../assets/images/teams/farooq.jpg'
-import BlogImg1 from '../assets/images/platforms/android.jpg'
+import BlogImg1 from '../assets/images/platforms/react.png'
 import BlogImg2 from '../assets/images/platforms/flutter1.png'
-import BlogImg3 from '../assets/images/platforms/node.png'
+import BlogImg3 from '../assets/images/platforms/wordpress.png'
 import User1 from '../assets/images/user1.jpg'
 import App from './App';
 const BlogDetails = () => {
@@ -58,17 +58,17 @@ const BlogDetails = () => {
 
                                     {/* <h3>Digital Marketing Agency Blogs You Should Read</h3> */}
 <br/>
-                                    <p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet, consectetur adipisicing.</p>
+                                    <p>I am the Founder/CEO of Augersoft. I lead an exciting team of technology entrepreneurs, tech wizards, curious minds and enthusiasts from across the globe in helping to solve the worlds most challenging problems. I like to think of myself as a Techno-decentralist (Using Technology as a Decentralization Tool). My team and I develop using the latest technologies to come up with new and exciting Blockchain and Cross-Platform Mobile/Web applications.</p>
 
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in  sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+                                    <p>My team and I develop using the latest technologies to come up with new and exciting Blockchain and Cross-Platform Mobile/Web applications..</p>
 
                                     <blockquote className="wp-block-quote">
-                                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                                        <p>You never get anywhere if you never try</p>
 
                                         <cite>Tom Cruise</cite>
                                     </blockquote>
 
-                                    <p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet, consectetur adipisicing.</p>
+                                   
 <div>
 <h3>Expertise</h3>
                                     <ul className="wp-block-gallery columns-3">
@@ -94,14 +94,16 @@ const BlogDetails = () => {
                                     <h3>Four major attributes that I offer:</h3>
 
                                     <ul className="features-list">
-                                        <li><i className='bx bx-badge-check'></i> Scientific skills for getting a better result</li>
-                                        <li><i className='bx bx-badge-check'></i> Communication skills to getting in touch</li>
-                                        <li><i className='bx bx-badge-check'></i> A career overview opportunity available</li>
-                                        <li><i className='bx bx-badge-check'></i> A good work environment for work</li>
+                                        <li><i className='bx bx-badge-check'></i> I'm a team  lead that plays for the team</li>
+                                        <li><i className='bx bx-badge-check'></i> Communication skills to get in touch</li>
+                                        <li><i className='bx bx-badge-check'></i> I'm focused on my goals</li>
+                                        <li><i className='bx bx-badge-check'></i> I try to build a positive environment for work</li>
                                     </ul>
 
                                     <h3>Role at AugerSoft</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in  sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+                                    <p>I'm the CEO of AugerSoft with a team of multi-talented software engineers and developer all across the globe.</p>
+                                    <p>I manage the progress of the company as a whole</p>
+                                    <p>I fetch and deal with the contracts and managerial responsibilities for AugerSoft. Also I'm responsible for getting or signing any contracts affiliated with AugerSoft</p>
 
                                     {/* <h3>The rise of marketing and why you need it</h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p> */}
