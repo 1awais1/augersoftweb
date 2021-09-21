@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 import {Link} from 'gatsby'
-
-
-import Rive from 'rive-react';
+import AppAmination from './AppAmination';
 
 import Logo from "../../assets/images/logo.png"
 
@@ -56,7 +54,7 @@ const Navbar = () => {
                             <Link to="/" onClick={toggleNavbar} className="navbar-brand">
                                 <img src={Logo} alt="logo" />
                             </Link>
-                             {/* <Rive src="\src\assets\animation\auger_anime1.riv" /> */}
+                            <AppAmination />
                            
 
                             <button 

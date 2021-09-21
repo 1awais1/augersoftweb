@@ -14,13 +14,13 @@ import StartProjectWithUs from '../components/Common/StartProjectWithUs';
 import Pricing from "../components/Common/Pricing"
 import SubscribeForm from "../components/Common/SubscribeForm"
 import Footer from "../components/App/Footer"
-import AppAmination from "../components/App/AppAmination"
+
 
 const HomeOne = () => {
     return (
         <Layout>
             <SEO title="Home One" />
-            {/* <AppAmination /> */}
+           
             <Navbar />
             <MainBanner />
             <Features />
