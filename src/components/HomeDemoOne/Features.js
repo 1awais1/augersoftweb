@@ -1,10 +1,14 @@
 import React from 'react';
 import { Link } from "gatsby"
+import SEOAnalysisForm from '../Common/SEOAnalysisForm';
 
 const Features = () => {
     return (
+        
         <div className="featured-services-area pt-100 pb-70">
+         
             <div className="container">
+           
                 <div className="section-title">
                     <span className="sub-title">Features</span>
                     <h2>Let’s Check Our Featured Services</h2>

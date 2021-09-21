@@ -1,8 +1,28 @@
 import React from 'react';
-
+import emailjs from 'emailjs-com'
 import ContactImg from '../../assets/images/contact.png'
 
+import { toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css'; 
+
 const ContactForm = () => {
+
+    toast.configure();
+    const  addToast  = () =>
+    {
+        toast("You're good to go ");
+    }
+    function sendEmail(e)
+    {
+e.preventDefault();
+emailjs.sendForm('service_fyj5cpy','template_1kaicra',e.target,'user_sDmAQ34GR8VgDELHlTeXp').then(res =>
+    {
+        console.log(res);
+        
+    }).catch(err => console.log(err));
+
+   
+    }
     return (
 
         
@@ -25,8 +45,11 @@ const ContactForm = () => {
                     </div>
 
                     <div className="col-lg-6 col-md-12">
+
+
                         <div className="contact-form">
-                            <form id="contactForm">
+                            <form id="contactForm" onSubmit={sendEmail}>
+                            
                                 <div className="row">
                                     <div className="col-lg-6 col-md-6">
                                         <div className="form-group">
@@ -57,11 +80,16 @@ const ContactForm = () => {
                                             <textarea name="text" cols="30" rows="5" placeholder="Write your message..." className="form-control" />
                                         </div>
                                     </div>
-                
+                                   
                                     <div className="col-lg-12 col-sm-12">
-                                        <button type="submit" className="default-btn">Send Message</button>
+                                        <button type="submit"  className="default-btn" onClick={() => addToast( {
+      appearance: 'success',
+      autoDismiss: true,
+    })}>Send Message</button>
                                     </div>
                                 </div>
+
+                                
                             </form>
                         </div>
                     </div>
