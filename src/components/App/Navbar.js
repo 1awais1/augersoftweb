@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import {Link} from 'gatsby'
+import AppAmination from './AppAmination';
 
 import Logo from "../../assets/images/logo.png"
 
@@ -53,6 +54,8 @@ const Navbar = () => {
                             <Link to="/" onClick={toggleNavbar} className="navbar-brand">
                                 <img src={Logo} alt="logo" />
                             </Link>
+                            <AppAmination />
+                           
 
                             <button 
                                 onClick={toggleNavbar} 

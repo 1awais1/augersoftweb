@@ -15,10 +15,12 @@ import Pricing from "../components/Common/Pricing"
 import SubscribeForm from "../components/Common/SubscribeForm"
 import Footer from "../components/App/Footer"
 
+
 const HomeOne = () => {
     return (
         <Layout>
             <SEO title="Home One" />
+           
             <Navbar />
             <MainBanner />
             <Features />
@@ -30,7 +32,7 @@ const HomeOne = () => {
             <TestimonialStyleOne />
             */}
             <Partner />
-            <OurTeamStyleOne />
+            {/* <OurTeamStyleOne /> */}
             <StartProjectWithUs/>
             <SubscribeForm />
             <Footer />

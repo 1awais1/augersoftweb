@@ -7,7 +7,9 @@
   "dependencies": {
     "@loadable/component": "^5.15.0",
     "bootstrap": "^5.1.0",
+
     "emailjs-com": "^3.2.0",
+
     "gatsby": "^2.32.13",
     "gatsby-image": "^2.11.0",
     "gatsby-plugin-manifest": "^2.12.1",
@@ -26,7 +28,9 @@
     "react-owl-carousel3": "^2.2.5",
     "react-router-dom": "^5.2.0",
     "react-tabs": "^3.2.2",
+
     "react-toastify": "^8.0.2",
+
     "sass": "^1.32.12"
   },
   "devDependencies": {
