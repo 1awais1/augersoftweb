@@ -13,7 +13,7 @@ import BlogImg1 from '../assets/images/platforms/react.png'
 import BlogImg2 from '../assets/images/platforms/ang.png'
 import BlogImg3 from '../assets/images/platforms/firebase.png'
 import User1 from '../assets/images/user1.jpg'
-import App from './App';
+
 const BlogDetails = () => {
     return (
         <Layout>

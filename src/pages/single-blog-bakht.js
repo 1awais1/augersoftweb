@@ -13,7 +13,7 @@ import BlogImg1 from '../assets/images/platforms/flutter1.png'
 import BlogImg2 from '../assets/images/platforms/node.png'
 import BlogImg3 from '../assets/images/platforms/firebase.png'
 import User1 from '../assets/images/user1.jpg'
-import App from './App';
+
 const BlogDetails = () => {
     return (
         <Layout>
