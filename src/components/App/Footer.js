@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from "gatsby"
 
-import WhiteLogo from "../../assets/images/white-logo1.png"
+import WhiteLogo from "../../assets/images/white-logo.png"
 import Shape16 from "../../assets/images/shape/shape16.png"
 
 const Footer = () => {
@@ -75,7 +75,7 @@ const Footer = () => {
                             <ul className="footer-contact-info">
                                 <li>
                                     <i className="bx bx-world"></i> 
-                                    2442 13th Ave South, Minneapolis, MN 55404, United States
+                                    2442 13th Ave South,<br/>Minneapolis, MN 55404,<br/>United States
                                 </li>
                                 <li>
                                     <i className='bx bx-phone-call'></i> 
