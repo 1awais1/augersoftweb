@@ -9,14 +9,14 @@ import PartnerImg6 from "../../assets/images/partner/partner-img6.png"
 
 const Partner = () => {
     return (
-        <div className="partner-area bg-f9f9f9 ptb-70">
+        <div className="partner-area bg-f9f9f9">
             <div className="about-content">
                 <div className="content">
 
-                <h2 className="sub-title-2 ">Currently Working In </h2>
+                <h3 className="sub-title-2 ">CURRENTLY WORKING IN </h3>
                </div>
                 
-                <br></br>
+             
 
                 <div className="row">
                     <div className="col-lg-3 col-4 col-sm-2 col-md-2">
