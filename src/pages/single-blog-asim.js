@@ -58,9 +58,9 @@ const BlogDetails = () => {
 
                                     {/* <h3>Digital Marketing Agency Blogs You Should Read</h3> */}
 <br/>
-                                    <p>An experienced Flutter/Mobile App developer with a Computer Science degree from LEADS University. Asim works as a Sr. Software Developer with Augersoft.</p>
+                                    <p>Mr. Asim Javed is Technology Manager at Augersoft. He is an experienced Flutter/Mobile App developer with a Computer Science degree from LEADS University. Asim works as a Sr. Software Developer with Augersoft.</p>
 
-                                    <p>My team and I develop using the latest technologies to come up with new and exciting Blockchain and Cross-Platform Mobile/Web applications..</p>
+                                    <p>He along with his team develop using the latest technologies to come up with new and exciting Block-chain and Cross-Platform Mobile/Web applications. He has extensive knowledge in back-end mobile payment integration as well as DevOps experience.</p>
 
                                     <blockquote className="wp-block-quote">
                                         <p>It's always a plus , when you work with a motivated team</p>
@@ -94,16 +94,19 @@ const BlogDetails = () => {
                                     <h3>Four major attributes that I offer:</h3>
 
                                     <ul className="features-list">
-                                        <li><i className='bx bx-badge-check'></i> I'm a team  lead that plays for the team</li>
-                                        <li><i className='bx bx-badge-check'></i> I'm energetic and motivated when it comes to work</li>
-                                        <li><i className='bx bx-badge-check'></i> I'm focused on my goals</li>
-                                        <li><i className='bx bx-badge-check'></i> I try to push my teammates to win</li>
+                                        <li><i className='bx bx-badge-check'></i> Mr. Asim is responsible for training team members, setting strategies, and monitoring progress towards goals.
+</li>
+                                        <li><i className='bx bx-badge-check'></i>He is energetic and passionate when it comes to work</li>
+                                        <li><i className='bx bx-badge-check'></i> He is fully focused on his goals</li>
+                                        <li><i className='bx bx-badge-check'></i> He tries to push his teammates to learn and succeed</li>
                                     </ul>
 
                                     <h3>Role at AugerSoft</h3>
-                                    <p>I'm the CTO of AugerSoft with a team of multi-talented software engineers and developer all across the globe.</p>
-                                    <p>I manage the development and technology department of the company as a whole</p>
-                                    <p>I work with my team to yeild most efficent projects there are. Also I'm involved with approving the work done by AugerSoft</p>
+                                    <p>Mr. Asim is the CTO of AugerSoft with a team of multi-talented software engineers and developers all across the globe. 
+</p>
+                                    <p>He leads the Augersoft Training program for interns and new hires.
+Moreover, he manages the development and technology department of the company as a whole.</p>
+                                    <p>Mr. Asim works with his team to yield the most efficient projects. In addition, he is involved with approving the work done by AugerSoft.</p>
 
                                     {/* <h3>The rise of marketing and why you need it</h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p> */}

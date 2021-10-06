@@ -27,14 +27,14 @@ const AboutSection = () => {
                                     <li>
                                         <div className="list">
                                             <i className="flaticon-menu-1"></i>
-                                            <h3>1</h3>
+                                            <h3>10</h3>
                                             <p>Completed projects</p>
                                         </div>
                                     </li>
                                     <li>
                                         <div className="list">
                                             <i className="flaticon-web-settings"></i>
-                                            <h3>100</h3>
+                                            <h3>1000</h3>
                                             <p>Working hours were spent</p>
                                         </div>
                                     </li>

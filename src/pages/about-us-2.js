@@ -5,11 +5,13 @@ import Navbar from '../components/App/Navbar';
 import PageBanner from '../components/Common/PageBanner';
 import AboutContentTwo from '../components/AboutUs/AboutContentTwo';
 import OurHistory from '../components/AboutUs/OurHistory';
-import OurTeamStyleTwo from '../components/Common/OurTeamStyleTwo';
-import TestimonialStyleTwo from '../components/Common/TestimonialStyleTwo';
+import OurTeamStyleOne from '../components/Common/OurTeamStyleOne';
+//import TestimonialStyleTwo from '../components/Common/TestimonialStyleTwo';
 import Partner from '../components/Common/Partner';
 import Footer from '../components/App/Footer';
 
+import WhatWeDo from '../components/Common/WhatWeDo';
+import TestimonialStyleOne from '../components/Common/TestimonialStyleOne';
 const AboutUs = () => {
     return (
         <Layout>
@@ -17,17 +19,17 @@ const AboutUs = () => {
 
 			<Navbar />
             
-			<PageBanner 
+			{/* <PageBanner 
                 pageTitle="About Us" 
-            />  
+            />   */}
             
             <AboutContentTwo />
 
             <OurHistory />
+<WhatWeDo/>
+            {/* <OurTeamStyleOne /> */}
 
-            <OurTeamStyleTwo />
-
-            <TestimonialStyleTwo />
+            <TestimonialStyleOne />
 
             <Partner />
 		  

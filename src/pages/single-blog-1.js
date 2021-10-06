@@ -58,9 +58,9 @@ const BlogDetails = () => {
 
                                     {/* <h3>Digital Marketing Agency Blogs You Should Read</h3> */}
 <br/>
-                                    <p>I am the Founder/CEO of Augersoft. I lead an exciting team of technology entrepreneurs, tech wizards, curious minds and enthusiasts from across the globe in helping to solve the worlds most challenging problems. I like to think of myself as a Techno-decentralist (Using Technology as a Decentralization Tool). My team and I develop using the latest technologies to come up with new and exciting Blockchain and Cross-Platform Mobile/Web applications.</p>
+                                    <p>Mr. Farooq Asger is the founder and CEO of AugerSoft. He leads an electrifying team of technology entrepreneurs, tech wizards, curious minds, and enthusiasts from across the globe in helping to solve the world's most challenging problems. He is an example of Techno-Decentralist (using technology as a decentralisation tool).</p>
 
-                                    <p>My team and I develop using the latest technologies to come up with new and exciting Blockchain and Cross-Platform Mobile/Web applications..</p>
+                                    <p>Mr. Farooq and his team develop using the latest technologies to come up with new and exciting Block-chain and Cross-Platform Mobile/Web applications.</p>
 
                                     <blockquote className="wp-block-quote">
                                         <p>You never get anywhere if you never try</p>
@@ -94,16 +94,18 @@ const BlogDetails = () => {
                                     <h3>Four major attributes that I offer:</h3>
 
                                     <ul className="features-list">
-                                        <li><i className='bx bx-badge-check'></i> I'm a team  lead that plays for the team</li>
-                                        <li><i className='bx bx-badge-check'></i> Communication skills to get in touch</li>
-                                        <li><i className='bx bx-badge-check'></i> I'm focused on my goals</li>
-                                        <li><i className='bx bx-badge-check'></i> I try to build a positive environment for work</li>
+                                        <li><i className='bx bx-badge-check'></i> Mr. Farooq is a leader that plays for the team</li>
+                                        <li><i className='bx bx-badge-check'></i> He is concentrated on communication skills to be connected</li>
+                                        <li><i className='bx bx-badge-check'></i>Mr. Farooq is fully focused on his goals</li>
+                                        <li><i className='bx bx-badge-check'></i>He tries to build a positive environment for work</li>
                                     </ul>
 
                                     <h3>Role at AugerSoft</h3>
-                                    <p>I'm the CEO of AugerSoft with a team of multi-talented software engineers and developer all across the globe.</p>
-                                    <p>I manage the progress of the company as a whole</p>
-                                    <p>I fetch and deal with the contracts and managerial responsibilities for AugerSoft. Also I'm responsible for getting or signing any contracts affiliated with AugerSoft</p>
+                                    <p>Mr. Farooq Asger is the CEO of AugerSoft with a team of multi-talented software engineers and developer all across the globe.
+
+</p>
+                                    <p>He manages the progress of the company as a whole.</p>
+                                    <p>He fetches and deals with the contracts and managerial responsibilities for AugerSoft. Moreover, he is responsible for getting or signing any contracts affiliated with AugerSoft.</p>
 
                                     {/* <h3>The rise of marketing and why you need it</h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p> */}

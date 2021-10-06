@@ -25,31 +25,37 @@ const Pricing = () => {
                             <div className="single-pricing-box">
                                 <div className="pricing-header">
                                     <div className="icon">
-                                        <i className="flaticon-paper-plane"></i>
+                                        <i className="flaticon-startup"></i>
                                         <div className="circles-box">
                                             <div className="circle-one"></div>
                                         </div>
                                     </div>
-                                    <h3>Starter Plan</h3>
+                                    <h3>Basic Plan</h3>
+                               
+                                
                                 </div>
 
                                 <div className="pricing-features">
                                     <ul>
-                                        <li>10GB Bandwidth Internet</li>
-                                        <li>Business & Financ Analysing</li>
-                                        <li>25 Social Media Reviews</li>
-                                        <li>Customer Managemet</li>
+                                        <li>Weekly Standups</li>
+                                        <li>3-5 offshore resources</li>
+                                        <li>Project Planing</li>
+                                        <li>Dedicated server to communicate with offhsore resources</li>
                                         <li>24/7 Support</li>
+                                        <li> </li>
+                                        <li> </li>
+                                        <li> </li>
+                                        <li> </li>
                                     </ul>
                                 </div>
 
-                                <div className="price">
+                                {/* <div className="price">
                                     $49.99
                                     <span>Per Month</span>
-                                </div>
+                                </div> */}
 
-                                <Link to="/#" className="default-btn">
-                                    Book Now
+                                <Link to="/contact" className="default-btn">
+                                    Contactus for Pricing
                                 </Link>
                             </div>
                         </div>
@@ -63,26 +69,30 @@ const Pricing = () => {
                                             <div className="circle-one"></div>
                                         </div>
                                     </div>
-                                    <h3>Advance Plan</h3>
+                                    <h3>Professional Plan</h3>
                                 </div>
 
                                 <div className="pricing-features">
                                     <ul>
-                                        <li>15GB Bandwidth Internet</li>
-                                        <li>Business & Financ Analysing</li>
-                                        <li>30 Social Media Reviews</li>
-                                        <li>Customer Managemet</li>
+                                        <li>Weekly Standups</li>
+                                        <li>5-10 offshore resources</li>
+                                        <li>Logo & Graphic Designing</li>
+                                        <li>5-10 offshore resources</li>
+                                        <li>Project Planning</li>
+                                        <li>Dedicated server to communicate with offshore resources</li>
                                         <li>24/7 Support</li>
+                                        <li>Modifications IN requirements</li>
+                                        <li>Business process flow diagram</li>
                                     </ul>
                                 </div>
 
-                                <div className="price">
+                                {/* <div className="price">
                                     $69.99
                                     <span>Per Month</span>
-                                </div>
+                                </div> */}
 
                                 <Link to="/#" className="default-btn">
-                                    Book Now
+                                    Contactus for Pricing
                                 </Link>
                             </div>
                         </div>

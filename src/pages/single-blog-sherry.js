@@ -58,9 +58,9 @@ const BlogDetails = () => {
 
                                     {/* <h3>Digital Marketing Agency Blogs You Should Read</h3> */}
 <br/>
-                                    <p>A self motivated Software Developer with demonstrated skills in Flutter and MERN Stack Development. A Strong team builder, having high level of personal morals, result oriented and committed to successful outcome of project..</p>
+                                    <p>Mr. Shahryar Khan is a self-motivated Software Developer with demonstrated skills in Flutter and MERN Stack Development. He is a strong team builder, having a high level of personal morals, result-oriented, and is committed to achieving successful outcomes of the project.</p>
 
-                                    <p>My team and I develop using the latest technologies to come up with new and exciting Blockchain and Cross-Platform Mobile/Web applications..</p>
+                                    <p>Mr. Shahryar long with his team develops using the latest technologies to come up with new and exciting Blockchain and Cross-Platform Mobile/Web applications. He has extensive knowledge in administration, integration as well as DevOps experience. He leads the Augersoft Management program for interns and new staff.</p>
 
                                     <blockquote className="wp-block-quote">
                                         <p>It's always convinient , when you have a set of extra hands</p>
@@ -94,15 +94,18 @@ const BlogDetails = () => {
                                     <h3>Four major attributes that I offer:</h3>
 
                                     <ul className="features-list">
-                                        <li><i className='bx bx-badge-check'></i> I'm an organizer who is goo at management</li>
-                                        <li><i className='bx bx-badge-check'></i> I'm energetic and motivated when it comes to work</li>
-                                        <li><i className='bx bx-badge-check'></i> I'm focused on my goals</li>
-                                        <li><i className='bx bx-badge-check'></i> I try to push my teammates to win</li>
+                                        <li><i className='bx bx-badge-check'></i> Mr. Shahryar is an organizer who is good at management
+
+
+</li>
+                                        <li><i className='bx bx-badge-check'></i>He is energetic and motivated when it comes to work</li>
+                                        <li><i className='bx bx-badge-check'></i> He is fully focused on his goals</li>
+                                        <li><i className='bx bx-badge-check'></i> He tries to push his teammates to win</li>
                                     </ul>
 
                                     <h3>Role at AugerSoft</h3>
-                                    <p>I'm the IT Project Manager AugerSoft with a team of multi-talented software engineers and developer all across the globe.</p>
-                                    <p>I manage the administrative abd supervise technology department of the company as a whole</p>
+                                    <p>Mr. Shahryar Khan is the IT Project Manager at AugerSoft with a team of multi-talented software engineers and developers all across the globe.</p>
+                                    <p>He manages the administrative and supervises the technology department of the company as a whole. He works with my team to yield the most efficient projects there are. Moreover, he is involved with approving the work done by the AugerSoft team</p>
                                     <p>I work with my team to yeild most efficent projects there are. Also I'm involved with approving the work done by AugerSoft</p>
 
                                     {/* <h3>The rise of marketing and why you need it</h3>

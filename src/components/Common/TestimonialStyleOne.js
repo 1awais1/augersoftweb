@@ -57,7 +57,9 @@ const TestimonialStyleOne = () => {
                                 </div>
 
                                 <div className="single-testimonials-item">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                                    <p>Thank you for your prompt deliveries to our Doe Plant.
+
+In our business we must get our products to the stores on a regular schedule. We rely on dependable service from suppliers like you to help us keep our schedule and satisfy our customers. We want you to know that we appreciate your efforts and look forward to continuing our business relationship.</p>
 
                                     <div className="client-info">
                                         <div className="d-flex align-items-center">
@@ -71,7 +73,7 @@ const TestimonialStyleOne = () => {
                                 </div>
 
                                 <div className="single-testimonials-item">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                                    <p>We want you to know how much we appreciate the way you have cared for our lawns and flowers this year. I can't remember a time when our lawns have looked so nicely groomed and weed-free, or when the flowers have been more beautiful. Several visitors to the corporate headquarters have commented on how nice things look. Thank you for your excellent service.</p>
 
                                     <div className="client-info">
                                         <div className="d-flex align-items-center">

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import {Link} from 'gatsby'
-//import AppAmination from './AppAmination';
+
 
 import Logo from "../../assets/images/logo.png"
 
@@ -54,7 +54,7 @@ const Navbar = () => {
                             <Link to="/" onClick={toggleNavbar} className="navbar-brand">
                                 <img src={Logo} alt="logo" />
                             </Link>
-                           {/* // <AppAmination /> */}
+                       
                            
 
                             <button 
@@ -77,10 +77,7 @@ const Navbar = () => {
                                 <li className="nav-item">
                                         
                                         
-                                        
-                                        {/* <Link to="/App" activeClassName="active" onClick={toggleNavbar} className="nav-link">
-                                            Click Here to Login
-                                        </Link> */}
+                                 
                                         
 
                                     </li>
@@ -97,11 +94,14 @@ const Navbar = () => {
                                         </Link>
                                     </li>
 
-                                    {/* <li className="nav-item">
+                                    <li className="nav-item">
                                         <Link to="/pricing" activeClassName="active" onClick={toggleNavbar} className="nav-link">
-                                            Pricing/ATC
+                                            Pricing
                                         </Link>
-                                    </li> */}
+                                    </li>
+                                    
+
+                                    
 
                                     {/* We need to create a new section for this below and expand on team member journey*/}
                                     {/* <li className="nav-item">
@@ -111,22 +111,29 @@ const Navbar = () => {
                                     </li> */}
     
                                     <li className="nav-item">
-                                        <Link to="/blog-1" activeClassName="active" onClick={toggleNavbar}
+                                        <Link to="/blog-3" activeClassName="active" onClick={toggleNavbar}
                                         className="nav-link">
     									Team
     								    </Link>
     							    </li>
 
                                     <li className="nav-item">
+                                    <Link to="/about-us-2" activeClassName="active" onClick={toggleNavbar} className="nav-link">
+                                        About Us
+                                    </Link>
+                                    </li>
+
+                                    <li className="nav-item">
                                         <Link to="/contact" activeClassName="active" onClick={toggleNavbar} className="nav-link">
                                             Contact
                                         </Link>
                                     </li>
+                                    
 
                                 </ul>
                             </div>
 
-                            <div className="others-option d-flex align-items-center">
+                            {/* <div className="others-option d-flex align-items-center">
 
                                 <div className="option-item">
                                     <div className="search-box" onClick={handleToggleSearchModal}>
@@ -134,13 +141,13 @@ const Navbar = () => {
                                     </div>
                                 </div>
 
-                                {/* Need to do work on this */}
-                                <div className="option-item">
+                                Need to do work on this
+                                  <div className="option-item">
                                     <div className="side-menu-btn" onClick={handleToggleSidebarModal}>
                                         <i className="flaticon-menu"></i>
                                     </div>
-                                </div>
-                            </div>
+                                </div> 
+                            </div> */}
                         </nav>
                     </div>
                 </div>
