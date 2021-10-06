@@ -28,7 +28,7 @@ const MainBanner = () => {
                             <div className="main-banner-content">
                                 <span className="sub-title">Blockchain & Mobile Application Solutions</span>
                                 <h1>Building Digital Solutions for the Future</h1>
-                                <p>Specialized in Mobile/Web and Blockchain Applications. We also provide IT training/certification using a proprietary curriculum devloped by a one of the top 3 banks in US </p>
+                                <p>Specialized in Mobile/Web and Blockchain Applications. We also provide IT training/certification using a proprietary curriculum developed by a one of the top 3 banks in US </p>
                                
                                 <div className="btn-box">
                                     <div className="d-flex align-items-center">

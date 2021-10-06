@@ -19,7 +19,7 @@ import Footer from "../components/App/Footer"
 const HomeOne = () => {
     return (
         <Layout>
-            <SEO title="Home One" />
+            <SEO title="Augersoft" />
            
             <Navbar />
             <MainBanner />

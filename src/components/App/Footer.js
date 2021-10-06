@@ -19,11 +19,10 @@ const Footer = () => {
                             <p>Blockchain & Mobile Application Solutions</p>
 
                             <ul className="social-link">
-                                <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-facebook'></i></a></li>
+                                <li><a href="https://www.facebook.com/Augersoft-Blockchain-and-Mobile-App-Solutions-107224918393740/" className="d-block" target="_blank"><i className='bx bxl-facebook'></i></a></li>
                                 <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-twitter'></i></a></li>
-                                <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-github'></i></a></li>
                                 <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-youtube'></i></a></li>
-                                <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/augersoft-blockchain-and-mobile-app-solutions" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -56,11 +55,11 @@ const Footer = () => {
                                     <Link to="/contact">Contact</Link>
                                 </li>
                                 <li>
-                                    <Link to="/services-1">Services</Link>
+                                    <Link to="/single-services">Services</Link>
                                 </li>
-                                <li>
+                                {/* <li>
                                     <Link to="/faq">FAQ</Link>
-                                </li>
+                                </li> */}
                                 <li>
                                     <Link to="/blog-1">Blog</Link>
                                 </li>
@@ -75,7 +74,7 @@ const Footer = () => {
                             <ul className="footer-contact-info">
                                 <li>
                                     <i className="bx bx-world"></i> 
-                                    2442 13th Ave South,<br/>Minneapolis, MN 55404,<br/>United States
+                                     Ave South,<br/>Minneapolis, MN 55404,<br/>United States
                                 </li>
                                 <li>
                                     <i className='bx bx-phone-call'></i> 

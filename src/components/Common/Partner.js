@@ -9,36 +9,36 @@ import PartnerImg6 from "../../assets/images/partner/partner-img6.png"
 
 const Partner = () => {
     return (
-        <div className="partner-area bg-f9f9f9 ptb-70">
+        <div className="partner-area bg-f9f9f9">
             <div className="about-content">
                 <div className="content">
 
-                <h2 className="sub-title-2 ">Currently Working In </h2>
+                <h3 className="sub-title-2 ">CURRENTLY WORKING IN </h3>
                </div>
                 
-                <br></br>
+             
 
-                <div className="row align-items-center justify-content-md-center">
-                    <div className="col-lg-3 col-6 col-sm-4 col-md-4">
+                <div className="row">
+                    <div className="col-lg-3 col-4 col-sm-2 col-md-2">
                         <div className="single-partner-item">
                             <img src={PartnerImg1} alt="Partner" />
                         </div>
                     </div>
 
-                    <div className="col-lg-3 col-6 col-sm-4 col-md-4">
+                    <div className="col-lg-3 col-4 col-sm-2 col-md-2">
                         <div className="single-partner-item">
                             { <img src={PartnerImg2} alt="Partner" /> }
                         </div>
                     </div>
 
-                    <div className="col-lg-3 col-6 col-sm-4 col-md-4">
+                    <div className="col-lg-3 col-4 col-sm-2 col-md-2">
                         <div className="single-partner-item">
                             <img src={PartnerImg3} alt="Partner" />
                        
                         </div>
                     </div>
 
-                    <div className="col-lg-3 col-6 col-sm-4 col-md-4">
+                    <div className="col-lg-3 col-4 col-sm-2 col-md-2">
                         <div className="single-partner-item">
                             <img src={PartnerImg4} alt="Partner" />
                       

@@ -71,10 +71,10 @@ const ServicesCard = () => {
                             </div>
                             <h3>
                                 <Link to="/single-services">
-                                    Block-chain Development
+                                    Block-Chain <br/> Development
                                 </Link>
                             </h3>
-                            <p>We Specialize in Blockchain Development</p>
+                            <p>We have Specialized  Blockchain Developers. </p>
                             
                             <Link to="/single-services" className="learn-more-btn">
                                 <i className="left-icon flaticon-next-button"></i> 
@@ -119,10 +119,10 @@ const ServicesCard = () => {
                             </div>
                             <h3>
                                 <Link to="/single-services">
-                                    Augersoft Technology College
+                                Augersoft Technology College
                                 </Link>
                             </h3>
-                            <p>We are offering Plularsight courses at low cost.</p>
+                            <p>We offering Low Price Courses. </p>
                             
                             <Link to="/single-services" className="learn-more-btn">
                                 <i className="left-icon flaticon-next-button"></i> 
