@@ -21,6 +21,9 @@ const Pricing = () => {
             <div className="pricing-area bg-f9f9f9 pt-100 pb-70">
                 <div className="container">
                     <div className="row">
+                    <h3>Mobile App Development</h3>
+                    
+                    
                         <div className="col-lg-4 col-md-6 col-sm-6">
                             <div className="single-pricing-box">
                                 <div className="pricing-header">
@@ -42,10 +45,11 @@ const Pricing = () => {
                                         <li>Project Planing</li>
                                         <li>Dedicated server to communicate with offhsore resources</li>
                                         <li>24/7 Support</li>
-                                        <li> </li>
-                                        <li> </li>
-                                        <li> </li>
-                                        <li> </li>
+                                        <ul className='features-list'>
+                                        <li><i className='bx bx-right-arrow-alt'></i></li>
+                                        <li><i className='bx bx-right-arrow-alt'></i></li><li><i className='bx bx-right-arrow-alt'></i></li><li><i className='bx bx-right-arrow-alt'></i></li>
+                                        
+                                        </ul>
                                     </ul>
                                 </div>
 
@@ -76,13 +80,17 @@ const Pricing = () => {
                                     <ul>
                                         <li>Weekly Standups</li>
                                         <li>5-10 offshore resources</li>
-                                        <li>Logo & Graphic Designing</li>
-                                        <li>5-10 offshore resources</li>
                                         <li>Project Planning</li>
                                         <li>Dedicated server to communicate with offshore resources</li>
                                         <li>24/7 Support</li>
+                                        <li>Logo & Graphic Designing</li>
+                                        
+                                        
+                                        
+                                       
                                         <li>Modifications IN requirements</li>
                                         <li>Business process flow diagram</li>
+                                        <li><i className='bx bx-right-arrow-alt'></i></li>
                                     </ul>
                                 </div>
 
@@ -91,7 +99,7 @@ const Pricing = () => {
                                     <span>Per Month</span>
                                 </div> */}
 
-                                <Link to="/#" className="default-btn">
+                                <Link to="/contact" className="default-btn">
                                     Contactus for Pricing
                                 </Link>
                             </div>
@@ -106,26 +114,61 @@ const Pricing = () => {
                                             <div className="circle-one"></div>
                                         </div>
                                     </div>
-                                    <h3>Premium Plan</h3>
+                                    <h3>Enterprise Plan</h3>
                                 </div>
 
                                 <div className="pricing-features">
                                     <ul>
-                                        <li>50GB Bandwidth Internet</li>
-                                        <li>Business & Financ Analysing</li>
-                                        <li>35 Social Media Reviews</li>
-                                        <li>Customer Managemet</li>
+                                    <li>Weekly Standups + AD-Hoc Meetings</li>
+                                        <li>10-20 offshore resources</li>
+                                        <li>Project Planning</li>
+                                        <li>Dedicated server to communicate with offshore resources</li>
                                         <li>24/7 Support</li>
+                                        <li>Logo & Graphic Designing</li>
+                                        
+                                        
+                                        
+                                       
+                                        <li>Unlimited Modifications in requirements</li>
+                                        <li>Business process flow diagram</li>
+                                        <li>Architectural Presentation</li>
                                     </ul>
                                 </div>
 
-                                <div className="price">
-                                    $99.99
-                                    <span>Per Month</span>
+                                <Link to="/contact" className="default-btn">
+                                    Contactus for Pricing
+                                </Link>
+                            </div>
+                        </div>
+
+                        <h3>Offshore Productions</h3>
+                        <div className="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-md-3 offset-sm-3">
+                            <div className="single-pricing-box">
+                                <div className="pricing-header">
+                                    <div className="icon">
+                                        <i className="flaticon-conversation"></i>
+                                        <div className="circles-box">
+                                            <div className="circle-one"></div>
+                                        </div>
+                                    </div>
+                                    <h3>Team Support Plan</h3>
                                 </div>
 
-                                <Link to="/#" className="default-btn">
-                                    Book Now
+                                <div className="pricing-features">
+                                    <ul>
+                                    <li>Weekly Standups + AD-Hoc Meetings</li>
+                                        
+                                        <li>Dedicated server to communicate with offshore resources</li>
+                                        <li>24/7 Support</li>
+                                        <li>Website/App maintainance</li>
+                                        <li>Project Takeover/Management</li>
+                                        <li>Upgrades and Enhancements</li>
+                                        
+                                    </ul>
+                                </div>
+
+                                <Link to="/contact" className="default-btn">
+                                    Contactus for Pricing
                                 </Link>
                             </div>
                         </div>

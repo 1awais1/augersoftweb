@@ -53,7 +53,7 @@ emailjs.sendForm('service_fyj5cpy','template_1kaicra',e.target,'user_sDmAQ34GR8V
                                 <div className="row">
                                     <div className="col-lg-6 col-md-6">
                                         <div className="form-group">
-                                            <input type="text" name="name" placeholder="Your Name" className="form-control" />
+                                            <input type="text" name="name" placeholder="Your Name" required className="form-control" />
                                         </div>
                                     </div>
 
@@ -80,7 +80,19 @@ emailjs.sendForm('service_fyj5cpy','template_1kaicra',e.target,'user_sDmAQ34GR8V
                                             <textarea name="text" cols="30" rows="5" placeholder="Write your message..." className="form-control" />
                                         </div>
                                     </div>
-                                   
+
+                                    <div className="col-lg-12">
+                                    <div className="form-group">
+                                    <h4>Choose your package</h4>
+                                    <select className="form-control">
+  <option  value="grapefruit" >Mobile App Development (Basic)</option>
+  <option value="lime" >Mobile App Development (Professional)</option>
+  <option value="coconut" >Mobile App Development (Enterprise)</option>
+  <option value="mango" >Team Support plan</option>
+  <option value="none">None</option>
+</select>
+</div>
+</div>
                                     <div className="col-lg-12 col-sm-12">
                                         <button type="submit"  className="default-btn" onClick={() => addToast( {
       appearance: 'success',
