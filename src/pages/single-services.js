@@ -93,7 +93,7 @@ const SingleServices = () => {
                                         <div className="circle-two"></div>
                                     </div>
                                 </div>
-                                <h3>Mobile Application/BlockChain Development</h3>
+                                <h3>Mobile Application Development</h3>
                                 <p>Our primary focus is Mobile Application development. We build global mobile applications on Flutter, Android and Ios.We have you covered from design to development, from testing to deployment mobile apps. Our experts supplement the customer's thought-process along with their schemes guaranteeing successful project </p>
                             </div>
                         </div>
@@ -151,7 +151,22 @@ const SingleServices = () => {
                                     </div>
                                 </div>
                                 <h3>Desktop App Development</h3>
-                                <p>We sustain best practices and market trends to deliver well-rounded desktop software development services. Have you desktop application built efficiently that provides ease to your business.Our competent designers and programmers never hesitate to go extra miles while transforming an exciting desktop application concept into an industry sensation..</p>
+                                <p>We sustain best practices and market trends to deliver well-rounded desktop software development services. Have you desktop application built efficiently that provides ease to your business.Our competent designers and programmers never hesitate to go extra miles while transforming an exciting desktop application concept into industry.</p>
+                            </div>
+                        </div>
+
+                        <div className="col-lg-4 col-md-6 col-sm-6">
+                            <div className="single-services-box">
+                                <div className="icon">
+                                    <i className="flaticon-darts"></i>
+                                    <div className="circles-box">
+                                        <div className="circle-one"></div>
+                                        <div className="circle-two"></div>
+                                    </div>
+                                </div>
+                                <h3>BlockChain Development</h3>
+                                <p>We provide high quality blockchain development to help to execute your business operations smooth, fast and efficiently, we also focus on providing long term maintanance for our business partners and clients. A big chunk of our daily routine is spent designing and developing block chain beased development modules, devloping remote business be it for blue-chip corporate clients, fresh-faced start-ups or local SMEs. </p>
+                                
                             </div>
                         </div>
 
