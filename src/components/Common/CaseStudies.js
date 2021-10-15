@@ -16,7 +16,7 @@ const options = {
     dots: false,
     autoplayHoverPause: true,
     autoplay: true,
-    margin: 30,
+    margin: 10,
     navText: [
         "<i class='flaticon-back'></i>",
         "<i class='flaticon-chevron'></i>"
@@ -51,8 +51,8 @@ const CaseStudies = () => {
         <div className="portfolio-area pt-100 pb-70">
             <div className="container">
                 <div className="section-title">
-                    <span className="sub-title">Case Studies</span>
-                    <h2>Check of Our Some Recent Works & Case Studies</h2>
+                    <span className="sub-title">Women In Tech</span>
+                    <h2>Check out our distinct accomplishments as All women Development Team</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                 </div>
             </div>
@@ -69,9 +69,9 @@ const CaseStudies = () => {
 
                         <div className="content">
                             <h3>
-                                <Link to="/single-portfolio">
+                        
                                     Customer Satisfaction for a Digital Marketing Agency
-                                </Link>
+                               
                             </h3>
                             <Link to="/single-portfolio" className="link-btn">
                                 <i className="flaticon-next-button"></i>
@@ -86,9 +86,9 @@ const CaseStudies = () => {
 
                         <div className="content">
                             <h3>
-                                <Link to="/single-portfolio">
+                                
                                     Return on Investment for Various Digital Marketing Strategies
-                                </Link>
+                               
                             </h3>
                             <Link to="/single-portfolio" className="link-btn">
                                 <i className="flaticon-next-button"></i>
@@ -103,9 +103,9 @@ const CaseStudies = () => {
 
                         <div className="content">
                             <h3>
-                                <Link to="/single-portfolio">
+                                
                                     Google Search Engine Marketing Case Study Analysis
-                                </Link>
+                                
                             </h3>
                             <Link to="/single-portfolio" className="link-btn">
                                 <i className="flaticon-next-button"></i>
@@ -120,9 +120,9 @@ const CaseStudies = () => {
 
                         <div className="content">
                             <h3>
-                                <Link to="/single-portfolio">
+                                
                                     Analysis of New Product Launch Using Google Double Click
-                                </Link>
+                                
                             </h3>
                             <Link to="/single-portfolio" className="link-btn">
                                 <i className="flaticon-next-button"></i>
@@ -137,9 +137,9 @@ const CaseStudies = () => {
 
                         <div className="content">
                             <h3>
-                                <Link to="/single-portfolio">
+                                
                                     Social Media Strategies for Online Shopping Cart
-                                </Link>
+                               
                             </h3>
                             <Link to="/single-portfolio" className="link-btn">
                                 <i className="flaticon-next-button"></i>

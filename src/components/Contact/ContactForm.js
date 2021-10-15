@@ -83,6 +83,17 @@ emailjs.sendForm('service_fyj5cpy','template_1kaicra',e.target,'user_sDmAQ34GR8V
 
                                     <div className="col-lg-12">
                                     <div className="form-group">
+
+
+
+                                    <h4>Choose your Developers</h4>
+                                    <select className="form-control">
+  <option  value="banana" > Default Augersoft Resources</option>
+  <option value="orange" >All Women Resources</option>
+  <option value="apple" >None</option>
+  
+  
+</select>
                                     <h4>Choose your package</h4>
                                     <select className="form-control">
   <option  value="grapefruit" >Mobile App Development (Basic)</option>
@@ -91,6 +102,8 @@ emailjs.sendForm('service_fyj5cpy','template_1kaicra',e.target,'user_sDmAQ34GR8V
   <option value="mango" >Team Support plan</option>
   <option value="none">None</option>
 </select>
+
+
 </div>
 </div>
                                     <div className="col-lg-12 col-sm-12">

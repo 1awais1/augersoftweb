@@ -14,9 +14,9 @@ const Pricing = () => {
 
 			<Navbar />
 
-			<MainBanner 
+			{/* <MainBanner 
                 pageTitle="Pricing" 
-            />  
+            />   */}
 
             <div className="pricing-area bg-f9f9f9 pt-100 pb-70">
                 <div className="container">
@@ -151,7 +151,7 @@ const Pricing = () => {
                                             <div className="circle-one"></div>
                                         </div>
                                     </div>
-                                    <h3>Team Support Plan</h3>
+                                    <h3>Augersoft Production Support Plan</h3>
                                 </div>
 
                                 <div className="pricing-features">

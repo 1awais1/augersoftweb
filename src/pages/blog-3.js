@@ -121,7 +121,7 @@ const BlogThree = () => {
                         <div className="col-lg-3 col-md-6">
                             <div className="single-blog-post">
                                 <div className="image">
-                                    <Link to="/single-blog-bakht" className="d-block">
+                                    <Link to="/cart" className="d-block">
                                         <img src={BlogImg3} alt="Blog" />
                                     </Link>
                                 </div>
@@ -200,7 +200,7 @@ const BlogThree = () => {
                         <div className="col-lg-3 col-md-6">
                             <div className="single-blog-post">
                                 <div className="image">
-                                    <Link to="/about-us-2" className="d-block">
+                                    <Link to="/single-blog-amna" className="d-block">
                                         <img src={BlogImg8} alt="Blog" />
                                     </Link>
                                 </div>
